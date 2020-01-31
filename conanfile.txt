@@ -1,5 +1,8 @@
 [requires]
-    approvaltests.cpp/8.1.0
+approvaltests.cpp/8.1.0
+
+[options]
+approvaltests.cpp:with_catch2=True
 
 [generators]
-    cmake
+cmake
