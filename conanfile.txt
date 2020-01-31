@@ -1,0 +1,5 @@
+[requires]
+    approvaltests.cpp/8.1.0
+
+[generators]
+    cmake
